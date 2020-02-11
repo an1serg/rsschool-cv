@@ -1,0 +1,73 @@
+.left {
+    width: 50%;
+    float: left;
+}
+
+img {
+    width: 400px;
+    height: 560px;
+    padding: 0 50px;
+    padding-top: 10px;
+}
+
+.right {
+    width: 50%;
+    float: right;
+}
+
+li {
+    font-family: "Roboto";
+}
+
+main {
+    width: 100%;
+    height: 600px;
+}
+
+#information li {
+    padding-bottom: 7px;
+}
+
+header h1 {
+    text-align: center;
+}
+
+nav {
+    height: 100px;
+    position: relative;
+}
+
+.navigation {
+    position: relative;
+    margin: auto;
+    padding-top: 30px;
+    width: 250px;
+}
+
+.navigation a {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 20px;
+    padding-right: 20px;
+}
+
+#contacts li {
+    font-family: "Roboto";
+    font-size: 25px;
+    float: left;
+    margin-right: 70px;
+    padding-top: 50px;
+}
+
+#contacts li:last-child {
+    margin-right: 30px;
+}
+
+#contacts li:first-child {
+    margin-left: 30px;
+}
+
+#container {
+    width: 1024px;
+    margin: 0 auto;
+}
