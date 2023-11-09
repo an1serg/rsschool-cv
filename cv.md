@@ -47,3 +47,5 @@ Some of my projects are available on my [GitHub profile](https://github.com/an1s
 - **LinkedIn:** [Sergey Anisimov](www.linkedin.com/in/sergey-anisimov-676525229)
 - **GitHub:** [an1serg](https://github.com/an1serg)
 - **Email:** [anissereg@gmail.com](mailto:anissereg@gmail.com)
+
+I look forward to exciting projects and opportunities for growth in the field of web development. Feel free to get in touch if you have any questions or collaboration proposals!
